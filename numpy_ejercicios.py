@@ -1,5 +1,6 @@
 import numpy as np
 
+
 # Activar entorno virtual.
 # .\datos\Scripts\activate
 

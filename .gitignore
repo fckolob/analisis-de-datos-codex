@@ -6,6 +6,7 @@
 !numpy_ejercicios.py
 !pandas_ejercicios.py
 !requirements.txt
+!numpy_and_pandas_ejercicios.py
 
 # Whitelist .gitignore
 !.gitignore
