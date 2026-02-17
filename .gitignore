@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Whitelist specific files
+!data.csv
+!numpy_ejercicios.py
+!pandas_ejercicios.py
+!requirements.txt
+
+# Whitelist .gitignore
+!.gitignore
